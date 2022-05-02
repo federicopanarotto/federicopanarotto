@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming languages
 - 😱 I like creating static website pages with HTML and CSS
 - 🌱 I’m currently learning C/C++ and JS 
-- 🧪 Programming is so fun!
+### 🧪 Programming is so fun!
 
 > This is my account for school! <br>
 > I use this space for put my school projects and stuff

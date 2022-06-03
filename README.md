@@ -4,6 +4,8 @@
 - 👀 I’m interested in programming languages
 - 😱 I like creating static website pages with HTML and CSS
 - 🌱 I’m currently learning C/C++ and JS 
+- 🧁 I'm studying SFML library to create simple Games Application with C++
+
 ### 🧪 Programming is so fun!
 
 > This is my account for school! <br>

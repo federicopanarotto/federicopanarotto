@@ -9,7 +9,7 @@
 ### 🧪 Programming is so fun!
 
 > This is my account for school! <br>
-> I use this space for put my school projects and stuff
+> I use this space to put my school projects and stuff
 
 ### My website projects 👉
 

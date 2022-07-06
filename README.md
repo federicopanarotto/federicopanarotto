@@ -18,7 +18,7 @@ Watch out my new website project: [stocazzosite.com](https://federicopanarotto.g
 
 ### See my archlinux install and configuration guide 👉  
 
-https://github.com/federicopanarotto/archlinux
+Click here to reach the repo: https://github.com/federicopanarotto/archlinux
 
 
 

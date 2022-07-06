@@ -5,6 +5,7 @@
 - 😱 I like creating static website pages with HTML and CSS
 - 🌱 I’m currently learning C/C++ and JS 
 - 🧁 I'm studying JAVA for personal interesting
+- 💉 Archlinux is my favourite linux distro
 
 ### 🧪 Programming is so fun!
 

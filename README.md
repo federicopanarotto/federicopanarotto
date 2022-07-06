@@ -16,4 +16,10 @@
 Reach my personal site: [federicopanarotto.com](https://federicopanarotto.github.io/federico-panarotto-site/) <br>
 Watch out my new website project: [stocazzosite.com](https://federicopanarotto.github.io/stocazzo-site/)
 
+### See my archlinux install and configuration guide 👉  
+
+https://github.com/federicopanarotto/archlinux
+
+
+
 ## Goodtime bro!

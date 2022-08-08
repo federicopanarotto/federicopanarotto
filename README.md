@@ -8,7 +8,7 @@
 - 💉 Archlinux is my favourite linux distro
 - 😍 Visual Studio Code is the best code editor in the world!
 
-### 🧪 Programming is so fun!
+### 🧪 Programming is so funny!
 
 > This is my account for school! <br>
 > I use this space to put my school projects and stuff

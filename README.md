@@ -4,7 +4,6 @@
 - 👀 I’m interested in programming languages
 - 😱 I like creating static website pages with HTML and CSS
 - 🌱 I’m currently learning C/C++ and JS 
-- 🧁 I'm studying JAVA for personal interesting
 - 💉 Archlinux is my favourite linux distro
 - 😍 Visual Studio Code is the best code editor in the world!
 

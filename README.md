@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/765646227303432232/969919780431757312/banner.png)
+![Banner](https://cdn.discordapp.com/attachments/718450216399011932/1026889247455727726/Raggruppa_1.png)
 
 # 👋 Hi, I’m @federicopanarotto
 - 👀 I’m interested in programming languages

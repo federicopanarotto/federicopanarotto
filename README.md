@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/718450216399011932/1026889247455727726/Raggruppa_1.png)
+![Banner](https://cdn.discordapp.com/attachments/765646227303432232/1055133474215960666/newbanner.png)
 
 # 😎 Hi guys, I’m @federicopanarotto
 

@@ -3,8 +3,8 @@
 # 😎 Hi guys, I’m @federicopanarotto
 
 - 👀 I’m interested in IT and in programming languages
-- 🌱 I’m currently learning C/C++ and JS
-- 😱 I like creating static website pages with HTML and CSS
+- 🌱 I’m currently learning C/C++
+- 😱 I like creating static website pages with HTML, CSS and JS
 - 💉 Archlinux is my favourite linux distro
 - 😍 Visual Studio Code is the best code editor in the world!
 

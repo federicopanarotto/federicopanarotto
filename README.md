@@ -17,7 +17,4 @@ Reach my personal site: [federicopanarotto.com](https://federicopanarotto.github
 Watch out my new website project: [manuale-patente.com](https://federicopanarotto.github.io/manuale-patente/)   
 Play my game in c++: [battaglia navale](https://github.com/federicopanarotto/battaglia-navale)
 
-### See my archlinux install and configuration guide 👉  
-Click here to reach the repo: https://github.com/federicopanarotto/archlinux
-
 ## Goodtime bro!

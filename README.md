@@ -1,4 +1,3 @@
-![Banner](https://cdn.discordapp.com/attachments/765646227303432232/1055133474215960666/newbanner.png)
 
 # 😎 Hi guys, I’m @federicopanarotto
 

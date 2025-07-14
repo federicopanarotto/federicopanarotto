@@ -1,19 +1,24 @@
+# 😎 Hi there, I’m @federicopanarotto
 
-# 😎 Hi guys, I’m @federicopanarotto
+👨‍💻 I’m passionate about IT and love exploring new programming languages     
+🌱 Currently diving deep into C#, Java, and TypeScript.  
+🚀 I enjoy building fullstack applications from scratch    
+🐧 My go-to Linux distro? Definitely Arch Linux    
+💻 Visual Studio Code is, without a doubt, the best code editor on Earth!    
 
-- 👀 I’m interested in IT and in programming languages
-- 🌱 I’m currently using C#, Java and Typescript with node.js
-- 😱 I like create fullstack applications
-- 💉 Archlinux is my favourite linux distro
-- 😍 Visual Studio Code is the best code editor in the world!
+### 📚 I’m currently studying at an ITS program for fullstack web development
+>I'm learning to build modern web applications using:
+>- Angular and React for the frontend
+>- Node.js with Express for the backend
 
 ### 🧪 Programming is so beautiful!
-> This is my account for school! <br>
-> I use this space to put my school projects and stuff
+This is my account for school and personal learning projects  
+I use this space to share what I build and experiment with  
 
-### My last projects 👉
-Reach my personal site: [federicopanarotto.com](https://federicopanarotto.github.io/federico-panarotto-site/) <br>
-Watch out my new website project: [manuale-patente.com](https://federicopanarotto.github.io/manuale-patente/)   
-Play my game in c++: [battaglia navale](https://github.com/federicopanarotto/battaglia-navale)
+### ✨ My latest projects 👇
+🌐 Personal site: federicopanarotto.com  
+📘 New website project: manuale-patente.com  
+🎮 C++ Game: Battaglia Navale  
 
-## Goodtime bro!
+---
+<i>🚀 Stay curious, keep coding – and have a good time, bro!</i>

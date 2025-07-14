@@ -15,10 +15,5 @@
 This is my account for school and personal learning projects  
 I use this space to share what I build and experiment with  
 
-### ✨ My latest projects 👇
-🌐 Personal site: federicopanarotto.com  
-📘 New website project: manuale-patente.com  
-🎮 C++ Game: Battaglia Navale  
-
 ---
 <i>🚀 Stay curious, keep coding – and have a good time, bro!</i>
